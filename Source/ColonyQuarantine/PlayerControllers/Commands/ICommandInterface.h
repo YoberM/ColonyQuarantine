@@ -5,6 +5,8 @@
 #include "UObject/Interface.h"
 #include "ICommandInterface.generated.h"
 
+struct FInputActionValue;
+
 UINTERFACE()
 class COLONYQUARANTINE_API UCommandInterface : public UInterface 
 {
