@@ -1,7 +1,7 @@
 # Colony Quarantine
 
 ## Description
-This is a game set in a hostile outer space environment where players must survive and manage a colony of individuals.
+This is a game set in a hostile outer space environment where players must survive and manage a colony of survivors.
 
 ## Technical Information
 The game primarily focuses on AI and Player Controller features. 
